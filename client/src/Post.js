@@ -3,7 +3,7 @@ export default function Post() {
         <div className="entries">
             <div className="post">
                 <div className="image">
-                    <img src="https://placekitten.com/g/200/300"></img>
+                    <img src="http://placekitten.com/300/300"></img>
                 </div>
                 <div className="text">
                     <h2>Title h2</h2>
